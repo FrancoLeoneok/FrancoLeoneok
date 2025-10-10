@@ -22,7 +22,7 @@
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/FrancoLeoneok-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/FrancoLeoneok-48/FrancoLeoneok-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
