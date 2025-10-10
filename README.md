@@ -29,6 +29,8 @@
 ------
 Credit: [Elanza-48](https://github.com/Elanza-48)
 
+I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-nantes.fr)** in France. I also work as a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**. I will start interning **[@CM-Robotics](https://cm-robotics.com) in Robotics Software Engineering** in March 2021.
+
 
 
 
