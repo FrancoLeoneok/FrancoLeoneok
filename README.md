@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/FrancoLeoneok" width="30"></h2>
+<h2> Hola, soy Franco 👋 <img src="https://github.com/FrancoLeoneok" width="30"></h2>
 <a href="https://www.linkedin.com/in/franco-leone-b821b634a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
