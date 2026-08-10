@@ -5,11 +5,14 @@
 </h3>
 
 <p align="center">
-  <a href="TU_LINK_DE_LINKEDIN">
+  <a href="https://www.linkedin.com/in/franco-leone-b821b634a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="TU_LINK_DE_GITHUB">
+  <a href="https://github.com/FrancoLeoneok">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://francoleone.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
@@ -27,7 +30,7 @@ bases de datos y aplicaciones web.
 Me interesa seguir creciendo profesionalmente, aprender nuevas tecnologías
 y formar parte de un equipo donde pueda aportar y continuar desarrollándome.
 
-🎯 **Busco mi primera oportunidad profesional como Developer Trainee / Junior.**
+🎯 **Busco oportunidades profesional como Developer Trainee / Junior.**
 
 ---
 
@@ -107,16 +110,6 @@ de Software.
 **Tecnologías utilizadas:**
 
 `HTML` `CSS` `JavaScript`
-
-> 📚 Proyecto académico
-
----
-
-## 📚 Actualmente aprendiendo
-
-
-
-
 
 
 <p align="center">
