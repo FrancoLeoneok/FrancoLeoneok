@@ -11,7 +11,7 @@
   <a href="https://github.com/FrancoLeoneok">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://francoleone.netlify.app/">
+  <a href="https://franco-leone-porfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
